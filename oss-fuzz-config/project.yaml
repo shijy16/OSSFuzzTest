@@ -1,0 +1,7 @@
+homepage: "https://www.baidu.com"
+language: c++
+primary_contact: "shijy16@gmail.com"
+main_repo: "https://github.com/shijy16/OSSFuzzTest.git"
+file_github_issue: true
+sanitizers:
+    - address
